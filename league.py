@@ -1,8 +1,6 @@
+import os
 import requests
 from dotenv import load_dotenv
-import os
-import time
-import mongo
 
 # Get API Key for League/Riot API
 load_dotenv()

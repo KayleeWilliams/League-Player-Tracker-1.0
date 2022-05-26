@@ -1,7 +1,5 @@
 import certifi
-import pymongo
 import os
-from http import server
 from dotenv import load_dotenv
 from pymongo import MongoClient
 
